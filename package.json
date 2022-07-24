@@ -1,0 +1,16 @@
+{
+  "name": "noje-project",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto em node - curso rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Evilyn Araújo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
